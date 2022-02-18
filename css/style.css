@@ -139,6 +139,11 @@ main{
     gap: 20px;
 }
 
+.buttons button:hover {
+    color: yellow;
+    border: none;
+}
+
 .buttons button {
     width: 250px;
     height: 60px;
